@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ponder</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="optional">Details</string>
+    <string name="namaste">Namaste</string>
+    <string name="thankYou">Thanks</string>
+    <string name="text">Text</string>
+    <string name="button">Submit</string>
+    <string name="message">We will definitely work on your feedback!</string>
+
+    <string name="text_instruction">1. This test consists of 20 multiple choice questions with 4 options each, out of which there is ONLY
+                one is correct option. \n\n2. Every correct answer is awarded 3 marks and every wrong answer is penalised with 1 mark. There are no negative marks of
+                unattempted questions. \n\n</string>
+</resources>
